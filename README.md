@@ -4,7 +4,9 @@
 
 
 
-<p>I'm a 24-year-old woman with a passion for coding. I have a background in molecular biology and genetics and I'm currently focused on becoming a successful Full-Stack Developer. I'm currently enrolled in a Full-Stack Development Bootcamp at Up School, where I'm fortunate to have received a full scholarship. I'm on a mission working towards becoming a successful Full-Stack Developer and to be a woman role model in the tech industry.</p>
+<p>I'm a 24-year-old woman with a passion for coding. I have a background in molecular biology and genetics and I'm currently focused on becoming a successful Full-Stack Developer. 
+
+I'm currently enrolled in a Full-Stack Development Bootcamp at Up School, where I'm fortunate to have received a full scholarship. I'm on a mission working towards becoming a successful Full-Stack Developer and to be a woman role model in the tech industry.</p>
 
 
 
@@ -12,7 +14,7 @@
 
 I'm currently diving deep into various programming languages, frameworks, and tools to sharpen my skills in full-stack development. Here's a breakdown of what I'm focused on:
 
-### Back-End Development
+### **🖥 Back-End Development**
 
 - ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png), ![.NET](https://img.icons8.com/color/48/000000/dot-net.png), ![ASP.NET Core](https://img.icons8.com/color/48/000000/asp-dot-net-core.png)
 - ![Entity Framework](https://img.icons8.com/color/48/000000/entity-framework.png)
@@ -24,17 +26,20 @@ I'm currently diving deep into various programming languages, frameworks, and to
 - Unit Testing, Test-Driven Development (TDD)
 - ![SignalR](https://img.icons8.com/color/48/000000/signalr.png), ![Selenium](https://img.icons8.com/color/48/000000/selenium-test-automation.png)
 
-### Front-End Development
+### ✨**Front-End Development**
+
 - HTML, CSS, ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png), ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 - ![React.js](https://img.icons8.com/color/48/000000/react-native.png), ![Blazor](https://img.icons8.com/color/48/000000/blazor.png), ![Vite](https://img.icons8.com/color/48/000000/vite.png)
 - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png), NPM
 - ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png), ![Semantic UI](https://img.icons8.com/color/48/000000/semantic-ui.png)
 
-### Databases
+### 💾**Databases**
+
 - ![MariaDB](https://img.icons8.com/color/48/000000/mariadb.png),
 - Entity Framework Core (with database interactions)
 
-### IDEs and Tools
+### ⚙**IDEs and Tools**
+
 ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio-2019.png) ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![WebStorm](https://img.icons8.com/color/48/000000/webstorm.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
 
 ## **🌱 What I'm currently learning**
@@ -57,7 +62,7 @@ If you'd like to connect or have any questions, feel free to reach out to me thr
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rana99kaya@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" /></a> </a> <a href="https://www.linkedin.com/in/kaya-rana/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a> <a href="https://twitter.com/IRanaKaya"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" /></a> <a href="https://medium.com/@ranakaya"><img src="https://img.icons8.com/color/48/000000/medium.png" alt="Medium" /></a>
 ## 🚀 GitHub Stats
 
-[![lkayarana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkayarana&show_icons=true&theme=radical)](https://github.com/lkayarana)
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkayarana&show_icons=true&theme=radical)](https://github.com/lkayarana)
 
 ## 💼 Most Used Languages
 
