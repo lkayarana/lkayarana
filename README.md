@@ -6,7 +6,9 @@
 
 <p>I'm a 24-year-old woman with a passion for coding. I have a background in molecular biology and genetics and I'm currently focused on becoming a successful Full-Stack Developer. 
 
-I'm currently enrolled in a Full-Stack Development Bootcamp at Up School, where I'm fortunate to have received a full scholarship. I'm on a mission working towards becoming a successful Full-Stack Developer and to be a woman role model in the tech industry.</p>
+I'm currently enrolled in a Full-Stack Development Bootcamp at Up School, where I'm fortunate to have received a full scholarship. 
+
+I'm on a mission working towards becoming a successful Full-Stack Developer and to be a woman role model in the tech industry.</p>
 
 
 
