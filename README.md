@@ -2,7 +2,7 @@
 
 <image align="left" height="210px" alt="womancoding" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" />
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lkayarana&label=Profile%20views&color=0e75b6&style=flat" alt="lkayarana" /> </p>
 
 <p>I'm a 24-year-old woman with a passion for coding. I have a background in molecular biology and genetics and I'm currently focused on becoming a successful Full-Stack Developer. 
 
