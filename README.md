@@ -30,7 +30,7 @@ I'm currently diving deep into various programming languages, frameworks, and to
 
 ### ✨**Front-End Development**
 
-- HTML, CSS, ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png), ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png), ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 - ![React.js](https://img.icons8.com/color/48/000000/react-native.png), ![Blazor](https://img.icons8.com/color/48/000000/blazor.png), ![Vite](https://img.icons8.com/color/48/000000/vite.png)
 - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png), NPM
 - ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png), ![Semantic UI](https://img.icons8.com/color/48/000000/semantic-ui.png)
