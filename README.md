@@ -18,31 +18,35 @@ I'm currently diving deep into various programming languages, frameworks, and to
 
 ### **🖥 Back-End Development**
 
-- ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png), ![.NET](https://img.icons8.com/color/48/000000/dot-net.png), ![ASP.NET Core](https://img.icons8.com/color/48/000000/asp-dot-net-core.png)
-- ![Entity Framework](https://img.icons8.com/color/48/000000/entity-framework.png)
+- ![image](https://github.com/lkayarana/lkayarana/assets/102520514/ebe8323b-8e11-4e1e-8b9f-56db6f75a400), ![image](https://github.com/lkayarana/lkayarana/assets/102520514/a1afb329-71be-4d58-a99a-be3bb50a9dfe)
+
+- Entity Framework,
 - SOLID Principles, Design Patterns
 - Asynchronous Programming
 -Clean Architecture
 - Web API, Microservices
 - Identity and Security (including JWT Tokens)
 - Unit Testing, Test-Driven Development (TDD)
-- ![SignalR](https://img.icons8.com/color/48/000000/signalr.png), ![Selenium](https://img.icons8.com/color/48/000000/selenium-test-automation.png)
+- SignalR, ![image](https://github.com/lkayarana/lkayarana/assets/102520514/269484fb-ab46-4518-aff8-6fa3a14f454a)
+
 
 ### ✨**Front-End Development**
 
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png), ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
-- ![React.js](https://img.icons8.com/color/48/000000/react-native.png), ![Blazor](https://img.icons8.com/color/48/000000/blazor.png), ![Vite](https://img.icons8.com/color/48/000000/vite.png)
+- ![React.js](https://img.icons8.com/color/48/000000/react-native.png), Blazor WASM, Vite
 - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png), NPM
-- ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png), ![Semantic UI](https://img.icons8.com/color/48/000000/semantic-ui.png)
+- ![image](https://github.com/lkayarana/lkayarana/assets/102520514/775727d5-7652-4b73-a347-98937ee2aba6), Semantic UI
 
 ### 💾**Databases**
 
-- ![MariaDB](https://img.icons8.com/color/48/000000/mariadb.png),
-- Entity Framework Core (with database interactions)
+- ![image](https://github.com/lkayarana/lkayarana/assets/102520514/eeacc316-6ec9-4011-815c-79cdce9e4712), ![image](https://github.com/lkayarana/lkayarana/assets/102520514/15826a40-e49b-4a39-9800-78a7e864f8a2)
 
 ### ⚙**IDEs and Tools**
 
-![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio-2019.png) ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![WebStorm](https://img.icons8.com/color/48/000000/webstorm.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
+![image](https://github.com/lkayarana/lkayarana/assets/102520514/108196a8-672b-4bfc-8943-e5dcdacd7c96), ![image](https://github.com/lkayarana/lkayarana/assets/102520514/6dcc4ba5-af29-4542-859d-1c66909f503f), ![WebStorm](https://img.icons8.com/color/48/000000/webstorm.png), ![image](https://github.com/lkayarana/lkayarana/assets/102520514/096d3aed-d649-4d60-b1e8-b84ff58ca96c), ![image](https://github.com/lkayarana/lkayarana/assets/102520514/7f0f4af8-82ee-4184-84bd-2481e9fd3db9)
+, ![image](https://github.com/lkayarana/lkayarana/assets/102520514/81a374eb-3c73-4ced-ad56-f6b7852f160e)
+
+
 
 ## **🌱 What I'm currently learning**
 
