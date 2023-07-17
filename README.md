@@ -43,7 +43,7 @@ I'm currently working on [UpCrawler-CapstoneProject](https://github.com/lkayaran
 
 ### ⚙**IDEs and Tools**
 
-![image](https://github.com/lkayarana/lkayarana/assets/102520514/108196a8-672b-4bfc-8943-e5dcdacd7c96), ![image](https://img.icons8.com/color/48/000000/webstorm.png), ![image](https://github.com/lkayarana/lkayarana/assets/102520514/096d3aed-d649-4d60-b1e8-b84ff58ca96c), ![image](https://github.com/lkayarana/lkayarana/assets/102520514/7f0f4af8-82ee-4184-84bd-2481e9fd3db9)
+![image](https://github.com/lkayarana/lkayarana/assets/102520514/108196a8-672b-4bfc-8943-e5dcdacd7c96), ![image](https://github.com/lkayarana/lkayarana/assets/102520514/096d3aed-d649-4d60-b1e8-b84ff58ca96c), ![image](https://github.com/lkayarana/lkayarana/assets/102520514/7f0f4af8-82ee-4184-84bd-2481e9fd3db9)
 , ![image](https://github.com/lkayarana/lkayarana/assets/102520514/81a374eb-3c73-4ced-ad56-f6b7852f160e)
 
 
