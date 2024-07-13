@@ -2,9 +2,9 @@
 
 <image align="left" height="210px" alt="womancoding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ0Z2RvMnM2OGZrcTh5djQ5bzIwOGE3bHAyaWQxdjZ3anJodW9wbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7A1dYzGilg6vLi9CLp/giphy.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lkayarana&label=Profile%20views&color=0e75b6&style=flat" alt="lkayarana" /> </p>
+<p align="left-end"> <img src="https://komarev.com/ghpvc/?username=lkayarana&label=Profile%20views&color=0e75b6&style=flat" alt="lkayarana" /> </p>
 
-<p>I have a background in molecular biology and genetics and I'm currently focused on becoming a successful Bioinformatician. 
+<p align="right-end">I have a background in molecular biology and genetics and I'm currently focused on becoming a successful Bioinformatician. 
 
 I'm currently enrolled in a Full-Stack Development Bootcamp at Up School, where I'm fortunate to have received a full scholarship. 
 
@@ -24,13 +24,15 @@ I'm currently working on [Gene_Analysis](https://github.com/lkayarana/Gene_Analy
 
 ## 🛠 Technologies and Tools
 
-### **Programming Languages**
+### **💻 Programming Languages**
+
 - **R**: Statistical computing and graphics
 - **Python**: Scripting and data analysis
 - **C#**: Back-end development
 - **JavaScript/TypeScript**: Front-end development
 
-### Bioinformatics Tools and Libraries
+### **🧬 Bioinformatics Tools and Libraries**
+
 - **Bioconductor**: R packages for bioinformatics, enabling analysis and comprehension of high-throughput genomic data.
 - **Biopython**: Python tools for biological computation, including modules for sequence analysis, structural bioinformatics, and population genetics.
 - **BLAST**: Basic Local Alignment Search Tool, used for comparing nucleotide or protein sequences to sequence databases.
@@ -43,6 +45,7 @@ I'm currently working on [Gene_Analysis](https://github.com/lkayarana/Gene_Analy
 - **Jupyter Notebooks**: Interactive computing environment that enables users to author data-driven, interactive, and reproducible notebooks.
 
 ### **💾 Databases**
+
 - **SQL**: Relational database management (MySQL)
 - **NoSQL**: Non-relational database management
 
@@ -65,11 +68,12 @@ I am constantly learning and expanding my skill set to keep up with the rapid ad
 
 When I'm not coding or analyzing data, you'll often find me on the ice rink, indulging in my passion for ice skating ⛸⛸. It's a great way for me to relax and stay active.
 
-## **📫How to reach me**
+## **📫 How to reach me**
 
 If you'd like to connect or have any questions, feel free to reach out to me through the following channels:
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rana99kaya@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" /></a> </a> <a href="https://www.linkedin.com/in/kaya-rana/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a> <a href="https://twitter.com/IRanaKaya"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" /></a> <a href="https://medium.com/@ranakaya"><img src="https://img.icons8.com/color/48/000000/medium.png" alt="Medium" /></a>
+
 ## 🚀 GitHub Stats
 
 [![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkayarana&show_icons=true&theme=radical)](https://github.com/lkayarana)
