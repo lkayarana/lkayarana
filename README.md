@@ -1,14 +1,14 @@
 # **Hi there! 👋 I'm Rana**
 
-<image align="left" height="210px" alt="womancoding" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" />
+<image align="left" height="210px" alt="womancoding" width="400" src="https://giphy.com/gifs/Massivesci-massivesci-nhgri-human-genome-7A1dYzGilg6vLi9CLp" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lkayarana&label=Profile%20views&color=0e75b6&style=flat" alt="lkayarana" /> </p>
 
-<p>I have a background in molecular biology and genetics and I'm currently focused on becoming a successful Full-Stack Developer. 
+<p>I have a background in molecular biology and genetics and I'm currently focused on becoming a successful Bioinformatician. 
 
 I'm currently enrolled in a Full-Stack Development Bootcamp at Up School, where I'm fortunate to have received a full scholarship. 
 
-I'm on a mission working towards becoming a successful Full-Stack Developer and to be a woman role model in the tech industry.</p>
+I'm on a mission working towards becoming a successful Bioinformatician and to be a woman role model in the tech industry.</p>
 
 
 
