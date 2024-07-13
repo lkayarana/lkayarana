@@ -1,6 +1,6 @@
 # **Hi there! 👋 I'm Rana**
 
-<image align="left" height="210px" alt="womancoding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ0Z2RvMnM2OGZrcTh5djQ5bzIwOGE3bHAyaWQxdjZ3anJodW9wbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7A1dYzGilg6vLi9CLp/giphy.gif" />
+<image align="left" height="210px" alt="womancoding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ0Z2RvMnM2OGZrcTh5djQ5bzIwOGE3bHAyaWQxdjZ3anJodW9wbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7A1dYzGilg6vLi9CLp/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lkayarana&label=Profile%20views&color=0e75b6&style=flat" alt="lkayarana" /> </p>
 
@@ -14,54 +14,58 @@ I'm on a mission working towards becoming a successful Bioinformatician and to b
 
 ## **🔭 What I'm currently working on**
 
-I'm currently working on [UpCrawler-CapstoneProject](https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/tree/main/HOMEWORKS/UpCrawler-CapstoneProject) for UpSchool and diving deep into various programming languages, frameworks, and tools to sharpen my skills in full-stack development. Here's a breakdown of what I'm focused on:
+I'm currently working on [Gene_Analysis](https://github.com/lkayarana/Gene_Analysis.git) for Masiive Bioinformatics and diving deep into various programming languages, frameworks, and tools to sharpen my skills in bioinformatician. Here's a breakdown of what I'm focused on:
 
-### **🖥 Back-End Development**
-
-- ![image](https://github.com/lkayarana/lkayarana/assets/102520514/ebe8323b-8e11-4e1e-8b9f-56db6f75a400), ![image](https://github.com/lkayarana/lkayarana/assets/102520514/a1afb329-71be-4d58-a99a-be3bb50a9dfe)
-
-- Entity Framework,
-- SOLID Principles, Design Patterns
-- Asynchronous Programming
--Clean Architecture
-- Web API, Microservices
-- Identity and Security (including JWT Tokens)
-- Unit Testing, Test-Driven Development (TDD)
-- SignalR, ![image](https://github.com/lkayarana/lkayarana/assets/102520514/269484fb-ab46-4518-aff8-6fa3a14f454a)
+- Developing a pipeline for genomic data analysis using Python and R.
+- Creating a web application for visualizing complex biological datasets with React.js and D3.js.
+- Conducting research on protein-protein interactions and their implications in disease mechanisms.
 
 
-### ✨**Front-End Development**
 
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png), ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
-- ![React.js](https://img.icons8.com/color/48/000000/react-native.png), Blazor WASM, Vite
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png), NPM
-- ![image](https://github.com/lkayarana/lkayarana/assets/102520514/775727d5-7652-4b73-a347-98937ee2aba6), Semantic UI
+## 🛠 Technologies and Tools
 
-### 💾**Databases**
+### **Programming Languages**
+- **R**: Statistical computing and graphics
+- **Python**: Scripting and data analysis
+- **C#**: Back-end development
+- **JavaScript/TypeScript**: Front-end development
 
-- ![image](https://github.com/lkayarana/lkayarana/assets/102520514/eeacc316-6ec9-4011-815c-79cdce9e4712), ![image](https://github.com/lkayarana/lkayarana/assets/102520514/15826a40-e49b-4a39-9800-78a7e864f8a2)
+### Bioinformatics Tools and Libraries
+- **Bioconductor**: R packages for bioinformatics, enabling analysis and comprehension of high-throughput genomic data.
+- **Biopython**: Python tools for biological computation, including modules for sequence analysis, structural bioinformatics, and population genetics.
+- **BLAST**: Basic Local Alignment Search Tool, used for comparing nucleotide or protein sequences to sequence databases.
+- **Pandas**: Python library for data manipulation and analysis, providing data structures and operations for manipulating numerical tables and time series.
+- **NumPy**: Fundamental package for scientific computing with Python, providing support for arrays, matrices, and high-level mathematical functions.
+- **SciPy**: Python library used for scientific and technical computing, building on NumPy to provide a large number of higher-level scientific functions.
+- **Matplotlib**: Plotting library for the Python programming language, providing an object-oriented API for embedding plots into applications.
+- **Seaborn**: Python visualization library based on Matplotlib, providing a high-level interface for drawing attractive statistical graphics.
+- **scikit-learn**: Machine learning library for Python, providing simple and efficient tools for data mining and data analysis.
+- **Jupyter Notebooks**: Interactive computing environment that enables users to author data-driven, interactive, and reproducible notebooks.
 
-### ⚙**IDEs and Tools**
+### **💾 Databases**
+- **SQL**: Relational database management (MySQL)
+- **NoSQL**: Non-relational database management
 
-![image](https://github.com/lkayarana/lkayarana/assets/102520514/108196a8-672b-4bfc-8943-e5dcdacd7c96), ![image](https://github.com/lkayarana/lkayarana/assets/102520514/096d3aed-d649-4d60-b1e8-b84ff58ca96c), ![image](https://github.com/lkayarana/lkayarana/assets/102520514/7f0f4af8-82ee-4184-84bd-2481e9fd3db9)
-, ![image](https://github.com/lkayarana/lkayarana/assets/102520514/81a374eb-3c73-4ced-ad56-f6b7852f160e)
+### **⚙ Development Tools**
 
+- **Git/GitHub**: Version control and collaboration
+- **Jupyter Notebooks**: Interactive data analysis
+- **VSCode**: Integrated Development Environment
 
 
 ## **🌱 What I'm currently learning**
 
-As part of my Full-Stack Development Bootcamp, I'm learning a wide range of technologies and tools. Some of the key areas I'm focusing on include:
+I am constantly learning and expanding my skill set to keep up with the rapid advancements in bioinformatics. Some areas I am focusing on include:
 
-- Building responsive and accessible web applications
-- Creating RESTful APIs and integrating them with front-end frameworks
-- Developing database schemas and working with data storage solutions
-- Version control with Git and collaborating on GitHub projects
+- **Machine Learning:** Applying ML algorithms to biological data
+- **Next-Generation Sequencing (NGS):** Analysis of NGS data
+- **Data Visualization:** Creating interactive visualizations with D3.js and Plotly
 
 ## **⚡ Fun fact**
 
-When I'm not coding, you'll often find me on the ice rink, indulging in my passion for ice skating ⛸⛸. It's a great way for me to relax and stay active.
+When I'm not coding or analyzing data, you'll often find me on the ice rink, indulging in my passion for ice skating ⛸⛸. It's a great way for me to relax and stay active.
 
-## 📫 How to reach me
+## **📫How to reach me**
 
 If you'd like to connect or have any questions, feel free to reach out to me through the following channels:
 
