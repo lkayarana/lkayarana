@@ -6,9 +6,7 @@
 
 <p align="right-end">I have a background in molecular biology and genetics and I'm currently focused on becoming a successful Bioinformatician. 
 
-I'm currently enrolled in a Full-Stack Development Bootcamp at Up School, where I'm fortunate to have received a full scholarship. 
-
-I'm on a mission working towards becoming a successful Bioinformatician and to be a woman role model in the tech industry.</p>
+I have a passion for unraveling the complexities of biological data through the power of computational tools and algorithms. With a background in molecular biology and genetics, I am on a mission to become a successful bioinformatician and contribute to advancements in the field of bioinformatics and computational biology.</p>
 
 
 
