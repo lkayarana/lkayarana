@@ -1,6 +1,6 @@
 # **Hi there! 👋 I'm Rana**
 
-<image align="left" height="210px" alt="womancoding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ0Z2RvMnM2OGZrcTh5djQ5bzIwOGE3bHAyaWQxdjZ3anJodW9wbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7A1dYzGilg6vLi9CLp/giphy.gif" />
+<image align="left" height="210px" alt="womancoding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ0Z2RvMnM2OGZrcTh5djQ5bzIwOGE3bHAyaWQxdjZ3anJodW9wbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7A1dYzGilg6vLi9CLp/giphy.gif" />
 
 <p align="left-end"> <img src="https://komarev.com/ghpvc/?username=lkayarana&label=Profile%20views&color=0e75b6&style=flat" alt="lkayarana" /> </p>
 
@@ -9,20 +9,6 @@
 <p align="right-end">I have a background in molecular biology and genetics and I'm currently focused on becoming a successful Bioinformatician. 
 
 I have a passion for unraveling the complexities of biological data through the power of computational tools and algorithms. With a background in molecular biology and genetics, I am on a mission to become a successful bioinformatician and contribute to advancements in the field of bioinformatics and computational biology.</p>
-
-<table>
-  <tr>
-    <td>
-      <img align="left" height="210px" alt="womancoding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ0Z2RvMnM2OGZrcTh5djQ5bzIwOGE3bHAyaWQxdjZ3anJodW9wbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7A1dYzGilg6vLi9CLp/giphy.gif" />
-      <p align="left-end"> <img src="https://komarev.com/ghpvc/?username=lkayarana&label=Profile%20views&color=0e75b6&style=flat" alt="lkayarana" /> </p>
-    </td>
-    <td style="padding-left: 20px;">
-      <p align="right-end">I have a background in molecular biology and genetics and I'm currently focused on becoming a successful Bioinformatician. 
-
-      I have a passion for unraveling the complexities of biological data through the power of computational tools and algorithms. With a background in molecular biology and genetics, I am on a mission to become a successful bioinformatician and contribute to advancements in the field of bioinformatics and computational biology.</p>
-    </td>
-  </tr>
-</table>
 
 
 ## **🔭 What I'm currently working on**
