@@ -13,7 +13,7 @@ I have a passion for unraveling the complexities of biological data through the 
 
 ## **🔭 What I'm currently working on**
 
-I'm currently working on [Gene_Analysis](https://github.com/lkayarana/Gene_Analysis.git) for Masiive Bioinformatics and diving deep into various programming languages, frameworks, and tools to sharpen my skills in bioinformatician. Here's a breakdown of what I'm focused on:
+I'm currently working on [Gene_Analysis](https://github.com/lkayarana/Gene_Analysis.git) for Massive Bioinformatics and diving deep into various programming languages, frameworks, and tools to sharpen my skills in bioinformatician. Here's a breakdown of what I'm focused on:
 
 - Developing a pipeline for genomic data analysis using Python and R.
 - Creating a web application for visualizing complex biological datasets with React.js and D3.js.
