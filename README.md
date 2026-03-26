@@ -11,16 +11,6 @@
 I have a passion for unraveling the complexities of biological data through the power of computational tools and algorithms. With a background in molecular biology and genetics, I am on a mission to become a successful bioinformatician and contribute to advancements in the field of bioinformatics and computational biology.</p>
 
 
-## **🔭 What I'm currently working on**
-
-I'm currently working on [Gene_Analysis](https://github.com/lkayarana/Gene_Analysis.git) and diving deep into various programming languages, frameworks, and tools to sharpen my skills in bioinformatician. Here's a breakdown of what I'm focused on:
-
-- Developing a pipeline for genomic data analysis using Python and R.
-- Creating a web application for visualizing complex biological datasets with React.js and D3.js.
-- Conducting research on protein-protein interactions and their implications in disease mechanisms.
-
-
-
 ## 🛠 Technologies and Tools
 
 ### **💻 Programming Languages**
