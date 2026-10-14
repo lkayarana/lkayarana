@@ -65,6 +65,10 @@ If you'd like to connect or have any questions, feel free to reach out to me thr
 
 ## 🚀 GitHub Stats
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=lkayarana&style=flat-square&color=ff69b4&v=2" alt="Profile views" />
+</p>
+
 [![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkayarana&show_icons=true&theme=radical)](https://github.com/lkayarana)
 
 ## 💼 Most Used Languages
