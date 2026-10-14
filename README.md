@@ -2,7 +2,7 @@
 
 <image align="left" height="210px" alt="womancoding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ0Z2RvMnM2OGZrcTh5djQ5bzIwOGE3bHAyaWQxdjZ3anJodW9wbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7A1dYzGilg6vLi9CLp/giphy.gif" />
 
-![Profile views](https://komarev.com/ghpvc/?username=lkayarana)
+![](https://hit.yhype.me/github/profile?account_id=102520514)
 
 <div style="clear: both; height: 20px;"></div>
 
@@ -64,10 +64,6 @@ If you'd like to connect or have any questions, feel free to reach out to me thr
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rana99kaya@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" /></a> </a> <a href="https://www.linkedin.com/in/kaya-rana/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a> <a href="https://twitter.com/IRanaKaya"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" /></a> <a href="https://medium.com/@ranakaya"><img src="https://img.icons8.com/color/48/000000/medium.png" alt="Medium" /></a>
 
 ## 🚀 GitHub Stats
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lkayarana&style=flat-square&color=ff69b4&v=2" alt="Profile views" />
-</p>
 
 [![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkayarana&show_icons=true&theme=radical)](https://github.com/lkayarana)
 
